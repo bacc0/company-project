@@ -14,11 +14,11 @@ const Home: NextPage = () => {
 
                <main className={styles.main}>
                     <h1 className={styles.title}>
-                         Welcome to <a href="https://nextjs.org">Battersea Power Station panting services!</a>
+                         Welcome to <a href="https://nextjs.org">Battersea Power Station Panting Services!</a>
                     </h1>
 
                     <p className={styles.description}>
-                         Get started by editing{' '}
+                         МИМО Здравей{' '}
                          <code className={styles.code}>pages/index.tsx</code>
                     </p>
 
