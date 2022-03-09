@@ -17,9 +17,8 @@ const Home: NextPage = () => {
                          Welcome to <a href="https://nextjs.org">Battersea Power Station Panting Services!</a>
                     </h1>
 
-                    <p className={styles.description}>
+                    <p className={styles.description} style={{color:'#ee00eabb'}}>
                          МИМО Здравей{' '}
-                         <code className={styles.code}>pages/index.tsx</code>
                     </p>
 
                     <div className={styles.grid}>
